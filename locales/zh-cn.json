@@ -1,0 +1,19 @@
+{
+    "Multiple authors": "多位作者",
+    "More in": "更多的",
+    "More posts": "更多文章",
+    " by {name}.": "由{name}。",
+    "<a href='{url}'>More posts</a> by {authorName}": "{authorName}的<a href='{url}'>更多文章</a>",
+    "Read <a href='{url}'>more posts</a> by this author": "浏览该作者的<a href='{url}'>更多文章</a>",
+    "A collection of": "一共",
+    "No posts": "没有文章",
+    "% post": "%篇文章",
+    "% posts": "%篇文章",
+    "See all % posts": "查看所有%篇文章",
+    "Latest Posts": "最新文章",
+    "1 min read": "阅读需要一分钟",
+    "% min read": "阅读需要%分钟",
+    "Website": "网站",
+    "Facebook": "脸书",
+    "Twitter": "推特"
+}
